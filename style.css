@@ -1,0 +1,178 @@
+.blueText{
+    color: rgb(54,96,169);
+
+}
+
+#background{
+    background-color: rgb(54,96,169);
+    height: 400px;
+    width: 850px;
+   
+    margin-left: 305px;
+    position: static ;
+   
+}
+
+#blueBox {
+    height: 150px;
+    width:150px;
+    border: 1px solid;
+    background-color: rgb(54, 96, 169);
+    position: absolute;
+    
+    margin-left: 29px;
+    margin-top: 267px;
+    display: block;
+
+
+
+}
+
+#whiteBox{
+    width: 850px;
+    height: 34px;
+    background-color: white;
+    margin-left: 305px;
+}
+
+#yourPage{
+    font-size: 30px;
+    color: white;
+    margin-top: 318px;
+    margin-left: 200px;
+    position: absolute;
+    display: block;
+}
+
+
+#website{
+    font-size: 18px;
+    color: white;
+    margin-top: 360px;
+    margin-left: 202px;
+    position: absolute;
+    display: block;
+}
+
+#links{
+    
+    padding-top: 8px;
+    margin-left: 212px;
+    color: black;
+    
+}
+
+#likeButton{
+    margin-left: 700px;
+    margin-top: 364px;
+
+}
+
+#leftRow {
+
+    width: 328px;
+    height: 200px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 305px;
+    position: absolute;
+    
+}
+
+#leftRowContent{
+
+    padding-left: 5px; 
+    padding-bottom: 5px;
+    margin: 12px 0px;   
+}
+
+.leftRowP{
+
+    color: rgb(54, 96, 169);
+    
+}
+
+.leftRowLink{
+    margin-bottom: 3px;
+    font-size: 14px;
+}
+#rightRow{
+
+    width: 512px;
+    background-color: white;
+    height: 300px;
+    position: absolute;
+    margin-left: 643px;
+    margin-top: 30px
+
+}
+
+#contentBox{
+    position: static;
+    background-color:rgb(54, 96, 169) ;
+    width: 510px;
+    height: 180px;
+    margin-left: 1px;
+    margin-right:1px;
+    margin-bottom: -5px;
+    padding-top: 10px;
+
+}
+
+.cornerBox{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    background-color: rgb(54, 96, 169);
+    margin: 8px;
+    padding-bottom: 5px;
+}
+
+.rightRowContent{
+    margin-left: 70px;
+    margin-top: 19px;
+    font-size: 12px;
+}
+
+#rightRowFooter{
+    margin-left: 12px;
+}
+.more{
+    margin-left: 35px;
+    
+    position: absolute;
+}
+
+.Timeline{
+    
+    margin-top: 5px;
+    text-decoration: none ;
+    color: black;
+
+   
+}
+
+.About{
+    margin-left: 35px;
+    margin-bottom: 5px;
+    border-left: lightgrey transparent .5;
+    
+
+}
+
+.Welcome{
+    margin-left: 35px;
+    margin-bottom: 5px;
+    
+}
+.FWB{
+    margin-left: 35px;
+    margin-bottom: 5px;
+}
+
+.click{
+    font-size: 12px;
+}
+body{
+    background-color: lightgrey;
+}
